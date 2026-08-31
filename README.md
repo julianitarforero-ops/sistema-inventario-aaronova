@@ -72,6 +72,7 @@ sistema-inventario-aaronova/
 ├── diagramas/
 ├── diseño/
 └── src/
+docs: organizar estructura del proyecto
 ```
 docs: agregar documentacion inicial del proyecto
 
