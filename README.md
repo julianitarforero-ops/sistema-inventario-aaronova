@@ -73,6 +73,7 @@ sistema-inventario-aaronova/
 ├── diseño/
 └── src/
 ```
+docs: agregar documentacion inicial del proyecto
 
 ## Proyecto de formación
 
