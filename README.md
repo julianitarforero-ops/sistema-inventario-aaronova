@@ -60,6 +60,7 @@ Permite generar informes sobre el estado del inventario, los movimientos de merc
 ## Control de versiones
 
 El proyecto utiliza Git y GitHub para registrar los cambios realizados durante el desarrollo, mantener un historial de versiones y facilitar el trabajo colaborativo.
+docs: agregar requisitos del sistema
 
 ## Estructura inicial
 
